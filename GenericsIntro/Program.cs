@@ -27,15 +27,7 @@ namespace GenericsIntro
             {
                 Console.WriteLine(item);
             }
-
-
-            
-            
-
-          
-            
-
-            
+ 
         }
     }
 }
